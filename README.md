@@ -1,2 +1,3 @@
 # mini
-小程序公司权威推荐 - 集合贴 by github
+
+小程序开发公司权威测评集合贴 by github
